@@ -16,7 +16,7 @@ h1 {
 }
 
 .image {
-    background-image: url(bigleb.jpeg);
+    background-image: url("bigleb.jpeg");
     background-size: cover;
     height: 30rem;
     width: 20rem;
