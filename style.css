@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Handlee&family=Quicksand&family=Raleway:wght@300&family=Train+One&family=Yanone+Kaffeesatz:wght@300&display=swap');
+
+
+h1 {
+    border: 3px solid black;
+    border-radius: 3px;
+    text-align: center;
+    background-color: brown;
+    height: 50px;
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Train One', cursive;
+    font-size: 35px;
+
+
+}
+
+.image {
+    background-image: url(/bigleb.jpeg);
+    background-size: cover;
+    height: 30rem;
+    width: 20rem;
+    margin: 0 auto;
+
+}
+
+h2 {
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: orange;
+    padding: 5px ;
+
+}
+
+.cast {
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+}
+
+p {
+    font-family: ;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;;
+}
+
+.soundtrack-title {
+    /* border: 1px solid black; */
+    width: 300px;
+    position: absolute;
+    left: 5rem;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.soundtrack-artists {
+    /* border: 1px solid black; */
+    width: 300px;
+    margin: 0 auto;
+    position: absolute;
+    right: 30rem;
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+
+
+
+.on-the-top {
+
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    height: 25rem;
+
+
+}
